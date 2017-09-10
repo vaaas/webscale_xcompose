@@ -1,2 +1,2 @@
 #!/bin/sh
-install -m 600 XCompose ~/.Xcompose
+install -m 600 XCompose ~/.XCompose
